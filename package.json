@@ -1,0 +1,14 @@
+{
+  "name": "peler",
+  "version": "1.0.0",
+  "description": "kyahh",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
